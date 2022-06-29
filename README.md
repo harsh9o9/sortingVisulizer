@@ -7,7 +7,9 @@ It is a fun tool that visualizes famous sorting Algorithms:
 * Merge Sort
 With this tool we can see yhe working of these algorithms with bar graph.
 
-Deployed Link: [Live View](https://bit.ly/SortingVisualizer)
+Final Project View: [View](https://bit.ly/SortingVisualizer)
 
 ## Images:
+
+### Desktop View
 !['desktop view'](/images/desktopView.png)
