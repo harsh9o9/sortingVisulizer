@@ -7,7 +7,7 @@ It is a fun tool that visualizes famous sorting Algorithms:
 * Merge Sort
 With this tool we can see yhe working of these algorithms with bar graph.
 
-Final Project View: [View](https://bit.ly/SortingVisualizer)
+Final Project View: [View](https://sorting-visulizer.vercel.app/)
 
 ## Images:
 
